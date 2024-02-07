@@ -17,4 +17,4 @@ Webpack;
 
 
 
-* Ссылка на проект в GitHab   https://jezeld.github.io/mesto/
+* Ссылка на проект в GitHab   https://jezeld.github.io/mesto-react/
